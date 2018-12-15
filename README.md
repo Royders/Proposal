@@ -2,6 +2,6 @@
 
 ```javascript
 if (BitCoinIsAwesome){
-  return true
+  return lambo
 }
 ```
